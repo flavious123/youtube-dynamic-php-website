@@ -1,0 +1,2 @@
+# youtube-dynamic-php-website
+1) I have worked on youtube dynamic website with this languages HTML,CSS ,BOOTSTRAP,JQUERY, JAVASCRIPT, PHP  with backend MY SQL with few functionalities and trying to update it with more with payment gateway and checkout. 2)Secondly i have made a CRUD Application on PHP and MYSQL with create ,read ,update and delete name and location of users. 3)Now working accordingly on CRM software on PHP .
